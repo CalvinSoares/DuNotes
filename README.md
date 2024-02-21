@@ -14,9 +14,11 @@ Site para criação de notas por voz e por texto
 
 ## Tecnologias utilizadas: 
 
-* **REACT Js**
+* **REACT JS**
 * **TYPESCRIPT**
 * **TAILWIND**
+* **RADIX**
+* **PRISMA**
 
 ## 🔧 Como Executar o projeto
 
@@ -25,10 +27,17 @@ Site para criação de notas por voz e por texto
 git clone https://github.com/CalvinSoares/DuNotes.git
 
 # Entre no diretório
-cd MyProject
+cd DuNotes
+```
+```
+# Rode o projeto
+npm run dev
 ```
 
 ## Autor
 
 * Calvin Soares
 
+## Licença
+
+Licença garantida pelo [LICENSE MIT](https://choosealicense.com/licenses/mit/)
